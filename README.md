@@ -16,17 +16,7 @@
      <li> 📫 I am a person who likes to share knowledge and teach other people.</li>
      <li>🌱 I like having great challenges at hand and ease to distribute tasks in a team.</li>           
      <li>😄 my favorite hobbies is photographing, playing the violin, playing games and reading news.</li>
+     <li>check out my [curriculum vitae]() and [academic curriculum]()/li>
 </ul>
-<!--
-**tiodospc/tiodospc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...t
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-- 
-
--->
+<h2>🚀 technologies I use </h2>
