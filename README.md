@@ -9,7 +9,7 @@
 <a href="https://facebook.com/thiago.corr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-thiago.corr-blue?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/thiago.corr/" alt="Facebook Badge"></a> 
 <a href="https://instagram.com/indiefarofinha" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%40indiefarofinha-%23A020F0%09?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/indiefarofinha/" alt="Instagram Badge"></a>
 
-<img scr="https://giphy.com/explore/6k-program-of-ruffy-biazon" width="480"/>
+<img align="right" src="https://giphy.com/explore/6k-program-of-ruffy-biazon" width="480"/>
 <h2>⚡ Facts about me <h2>
 <p>
     <ul>
