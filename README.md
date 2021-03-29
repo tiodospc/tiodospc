@@ -16,7 +16,7 @@
      <li> 📫 I am a person who likes to share knowledge and teach other people.</li>
      <li>🌱 I like having great challenges at hand and ease to distribute tasks in a team.</li>           
      <li>😄 my favorite hobbies is photographing, playing the violin, playing games and reading news.</li>
-     <li>check out my ()[curriculum vitae] and ()[academic curriculum]</li>
+     <li>check out my (google.com)[curriculum vitae] and (google.com)[academic curriculum]</li>
 </ul>
 
 <h2>🚀 technologies I use </h2>
