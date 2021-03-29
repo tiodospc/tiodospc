@@ -10,7 +10,7 @@
 <a href="https://instagram.com/indiefarofinha" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%40indiefarofinha-%23A020F0%09?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/indiefarofinha/" alt="Instagram Badge"></a>
 
 <img align="right" src="https://i.imgur.com/yicqjkz.gif" width="480"/>
-<h2>⚡ Facts about me <h2>
+<h2>⚡ Facts about me </h2>
         - 🔭 I learn fast and I like to test different technologies<br>
         - 📫 I am a person who likes to share knowledge and teach other people<br>
         - 🌱 I like having great challenges at hand and ease to distribute tasks in a team<br>
