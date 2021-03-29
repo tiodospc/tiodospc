@@ -36,3 +36,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="nodejs" width="25" height="25" />  
     <img src="https://github.com/devicons/devicon/blob/master/icons/ember/ember-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 </p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=tiodospc&show_icons=true&hide_border=true" alt="Tadeu's Github Stats">
+
