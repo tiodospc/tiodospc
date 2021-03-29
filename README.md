@@ -7,9 +7,9 @@
 
 <a href="https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-thiago%20henrique%20ferreira%20correa-blue?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/" alt="LinkedIn Badge"></a> 
 
-    <a href="https://open.spotify.com/user/avellar_7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@avellar_7%20-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/avellar_7" alt="Spotify Badge"></a>
-    <a href="https://facebook.com/mazarafa7" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-1ca0f1?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://facebook.com/mazarafa7" alt="Facebook Badge"></a> 
-    <a href="https://instagram.com/mazarafa" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-@mazarafa-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/mazarafa/" alt="Instagram Badge"></a>
+<a href="https://facebook.com/thiago.corr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-thiago.corr-blue?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/thiago.corr/" alt="Facebook Badge"></a> 
+
+<a href="https://instagram.com/indiefarofinha" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%40indiefarofinha-%23A020F0%09?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/indiefarofinha/" alt="Instagram Badge"></a>
 
 
 <!--
