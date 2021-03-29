@@ -34,4 +34,5 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="nodejs" width="25" height="25" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="nodejs" width="25" height="25" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="nodejs" width="25" height="25" />  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/ember/ember-original-wordmark.svg" alt="nodejs" width="25" height="25" />
 </p>
