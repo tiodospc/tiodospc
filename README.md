@@ -9,7 +9,13 @@
 <a href="https://facebook.com/thiago.corr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-thiago.corr-blue?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/thiago.corr/" alt="Facebook Badge"></a> 
 <a href="https://instagram.com/indiefarofinha" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%40indiefarofinha-%23A020F0%09?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/indiefarofinha/" alt="Instagram Badge"></a>
 
-
+<h2>⚡ Facts about me <h2>
+<ul>
+    <li>🔭 I learn fast and I like to test different technologies</li>
+    <li>📫 I am a person who likes to share knowledge and teach other people </li>
+    <li>🌱 I like having great challenges at hand and ease to distribute tasks in a team </li>
+    <li>😄 my favorite hobbies and photographing playing the violin, playing and reading news</li>
+</ul>
 <!--
 **tiodospc/tiodospc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,8 +27,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 
-Linkedin](https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/)
-[Instagram](https://www.instagram.com/indiefarofinha)
-[Facebook](https://www.facebook.com/thiago.corr)
 
 -->
