@@ -11,10 +11,12 @@
 
 <img align="right" src="https://i.imgur.com/yicqjkz.gif" width="480"/>
 <h2>⚡ Facts about me </h2>
-        - 🔭 I learn fast and I like to test different technologies<br>
-        - 📫 I am a person who likes to share knowledge and teach other people<br>
-        - 🌱 I like having great challenges at hand and ease to distribute tasks in a team<br>
-        - 😄 my favorite hobbies is photographing, playing the violin, playing games and reading news<br>
+<ul>
+      <li>🔭 I learn fast and I like to test different technologies.</li>
+     <li> 📫 I am a person who likes to share knowledge and teach other people.</li>
+     <li>🌱 I like having great challenges at hand and ease to distribute tasks in a team.</li>           
+     <li>😄 my favorite hobbies is photographing, playing the violin, playing games and reading news.</li>
+</ul>
 <!--
 **tiodospc/tiodospc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
