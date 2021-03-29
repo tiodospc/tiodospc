@@ -5,7 +5,9 @@
 
 currently I'm student of computer science in universidade federal da fronteira sul and working as a frontend developer also having experience as a fullstack. I have interests in areas such as bioinformatics, bigdata and data science.
 
-[Linkedin](https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/)<img src="https://simpleicons.org/icons/linkedin.svg">
+
+<img src='https://img.shields.io/static/v1?label=%3E&message=linkdin&color=blue&style=%3CSTYLE%3E&logo=https://simpleicons.org/icons/linkedin.svg'/>
+[Linkedin](https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/)
 [Instagram](https://www.instagram.com/indiefarofinha)
 [Facebook](https://www.facebook.com/thiago.corr)
 
