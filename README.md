@@ -5,7 +5,9 @@
 
 <p>currently I'm student of computer science in universidade federal da fronteira sul and working as a frontend developer also having experience as a fullstack. I have interests in areas such as bioinformatics, bigdata and data science.</p>
 
-<a href="https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-thiago%20henrique%20ferreira%20correa-blue?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/" alt="LinkedIn Badge"></a> <a href="https://facebook.com/thiago.corr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-thiago.corr-blue?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/thiago.corr/" alt="Facebook Badge"></a> <a href="https://instagram.com/indiefarofinha" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%40indiefarofinha-%23A020F0%09?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/indiefarofinha/" alt="Instagram Badge"></a>
+<a href="https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-thiago%20henrique%20ferreira%20correa-blue?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/" alt="LinkedIn Badge"></a> 
+<a href="https://facebook.com/thiago.corr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-thiago.corr-blue?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/thiago.corr/" alt="Facebook Badge"></a> 
+<a href="https://instagram.com/indiefarofinha" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%40indiefarofinha-%23A020F0%09?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/indiefarofinha/" alt="Instagram Badge"></a>
 
 
 <!--
