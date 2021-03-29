@@ -29,7 +29,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="25" height="25" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
     <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" alt="nodejs" width="25" height="25" />
-     
-     
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" alt="nodejs" width="25" height="25" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="nodejs" width="25" height="25" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="nodejs" width="25" height="25" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="nodejs" width="25" height="25" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="nodejs" width="25" height="25" />  
 </p>
