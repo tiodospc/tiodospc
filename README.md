@@ -6,7 +6,8 @@
 currently I'm student of computer science in universidade federal da fronteira sul and working as a frontend developer also having experience as a fullstack. I have interests in areas such as bioinformatics, bigdata and data science.
 
 [Linkedin](https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/)<img src="https://simpleicons.org/icons/linkedin.svg">
-
+[Instagram](https://www.instagram.com/indiefarofinha)
+[Facebook](https://www.facebook.com/thiago.corr)
 
 <!--
 **tiodospc/tiodospc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
