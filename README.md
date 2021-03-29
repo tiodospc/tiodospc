@@ -10,12 +10,14 @@
 <a href="https://instagram.com/indiefarofinha" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%40indiefarofinha-%23A020F0%09?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/indiefarofinha/" alt="Instagram Badge"></a>
 
 <h2>⚡ Facts about me <h2>
-<ul>
-    <li>🔭 I learn fast and I like to test different technologies</li>
-    <li>📫 I am a person who likes to share knowledge and teach other people </li>
-    <li>🌱 I like having great challenges at hand and ease to distribute tasks in a team </li>
-    <li>😄 my favorite hobbies is photographing, playing the violin, playing games and reading news</li>
-</ul>
+<p>
+    <ul>
+        <li>🔭 I learn fast and I like to test different technologies</li>
+        <li>📫 I am a person who likes to share knowledge and teach other people </li>
+        <li>🌱 I like having great challenges at hand and ease to distribute tasks in a team </li>
+        <li>😄 my favorite hobbies is photographing, playing the violin, playing games and reading news</li>
+    </ul>
+</p>
 <!--
 **tiodospc/tiodospc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
