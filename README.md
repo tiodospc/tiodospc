@@ -2,8 +2,15 @@
 
 
 ##
+I'm a passionate frontend engineer with experience as a fullstack developer. I'm currently pursuing a degree in Computer Science from Universidade Federal da Fronteira Sul and working as a frontend engineer at Hotmart.
 
-<p>currently I'm a student of computer science at universidade federal da fronteira sul and working as a frontend developer also having experience as a fullstack. I have interests in areas such as bioinformatics, big data and data science.</p>
+I have a strong interest in exploring the possibilities of technology in emerging areas such as bioinformatics, big data, and data science. My curiosity and desire to learn more about these fields have motivated me to keep up with the latest trends and technologies.
+
+As a frontend engineer at Hotmart, I'm responsible for designing and coding user interfaces, creating responsive designs, and ensuring that the application is optimized for user experience. I have a deep understanding of programming languages such as HTML, CSS, and JavaScript, as well as experience with modern frontend frameworks such as React or Angular.
+
+In my free time, I enjoy working on personal projects to further develop my skills and explore new technologies. My GitHub profile showcases some of my recent work, including projects related to data visualization, web development, and more.
+
+I'm always looking for opportunities to collaborate on exciting projects, so feel free to reach out to me if you'd like to work together or have any questions.
 
 <a href="https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-thiago%20henrique%20ferreira%20correa-blue?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/" alt="LinkedIn Badge"></a> 
 <a href="https://facebook.com/thiago.corr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-thiago.corr-blue?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/thiago.corr/" alt="Facebook Badge"></a> 
