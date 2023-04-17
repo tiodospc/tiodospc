@@ -4,7 +4,7 @@
 ##
 I'm a passionate frontend engineer with experience as a fullstack developer. I'm currently pursuing a degree in Computer Science from Universidade Federal da Fronteira Sul and working as a frontend engineer at Hotmart.
 
-I have a strong interest in exploring the possibilities of technology in emerging areas such as bioinformatics, big data, and data science. My curiosity and desire to learn more about these fields have motivated me to keep up with the latest trends and technologies.
+I have a strong interest in exploring the possibilities of technology in emerging areas such as bioinformatics, big data, data science and AI. My curiosity and desire to learn more about these fields have motivated me to keep up with the latest trends and technologies.
 
 As a frontend engineer at Hotmart, I'm responsible for designing and coding user interfaces, creating responsive designs, and ensuring that the application is optimized for user experience. I have a deep understanding of programming languages such as HTML, CSS, and JavaScript, as well as experience with modern frontend frameworks such as React or Angular.
 
