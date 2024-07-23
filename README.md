@@ -2,7 +2,7 @@
 
 
 ##
-I'm a passionate frontend engineer with experience as a fullstack developer. I'm currently pursuing a degree in Computer Science from Universidade Federal da Fronteira Sul and working as a frontend engineer at Hotmart.
+I'm a passionate frontend engineer with experience as a fullstack developer. I'm currently pursuing a degree in Computer Science from Universidade Federal da Fronteira Sul and working as a frontend engineer.
 
 I have a strong interest in exploring the possibilities of technology in emerging areas such as bioinformatics, big data, data science and AI. My curiosity and desire to learn more about these fields have motivated me to keep up with the latest trends and technologies.
 
