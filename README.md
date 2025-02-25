@@ -2,6 +2,7 @@
 
 
 ##
+
 I'm a software engineer with a background in fullstack development and a Computer Science graduate from Universidade Federal da Fronteira Sul. Passionate about technology, I love exploring new possibilities in areas like bioinformatics, big data, data science, and AI.
 
 Currently, I work at *, where I focus on building scalable and high-performance user interfaces. My expertise includes React, Next.js, Node.js, and a strong foundation in software architecture and scalability. I enjoy optimizing applications for usability and performance, ensuring the best possible experience for users.
@@ -17,9 +18,9 @@ In my free time, you’ll find me working on personal projects, DJing, or captur
 <img align="right" src="https://i.imgur.com/yicqjkz.gif" width="480"/>
 <h2>⚡ Facts about me </h2>
 <ul>
-     <li>🚀 Tech Stack: React, Next.js, TypeScript, Node.js, MongoDB, Express.js, AWS, Linux</li>
-     <li> 🎯 Interests: Scalability, Performance Optimization, System Design, AI, Data Science</li>
-     <li>🎵 Hobbies: DJing, gaming, photography, and keeping up with the latest tech trends</li>           
+     <li>🚀 Tech Stack: React, Next.js, TypeScript, Node.js, MongoDB, Express.js, AWS, Linux.</li>
+     <li> 🎯 Interests: Scalability, Performance Optimization, System Design, AI, Data Science.</li>
+     <li>🎵 Hobbies: DJing, gaming, photography, and keeping up with the latest tech trends.</li>           
      <!-- <li>check out my [curriculum vitae] and [academic curriculum]</li> -->
 </ul>
 
