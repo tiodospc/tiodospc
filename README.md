@@ -2,27 +2,24 @@
 
 
 ##
-I'm a passionate frontend engineer with experience as a fullstack developer. I'm currently pursuing a degree in Computer Science from Universidade Federal da Fronteira Sul and working as a frontend engineer.
+I'm a software engineer with a background in fullstack development and a Computer Science graduate from Universidade Federal da Fronteira Sul. Passionate about technology, I love exploring new possibilities in areas like bioinformatics, big data, data science, and AI.
 
-I have a strong interest in exploring the possibilities of technology in emerging areas such as bioinformatics, big data, data science and AI. My curiosity and desire to learn more about these fields have motivated me to keep up with the latest trends and technologies.
+Currently, I work at ***, where I focus on building scalable and high-performance user interfaces. My expertise includes React, Next.js, Node.js, and a strong foundation in software architecture and scalability. I enjoy optimizing applications for usability and performance, ensuring the best possible experience for users.
 
-As a frontend engineer at Hotmart, I'm responsible for designing and coding user interfaces, creating responsive designs, and ensuring that the application is optimized for user experience. I have a deep understanding of programming languages such as HTML, CSS, and JavaScript, as well as experience with modern frontend frameworks such as React or Angular.
+Beyond coding, I have a passion for teaching and mentoring, helping others grow in their careers. I thrive in collaborative environments, where I can share knowledge, tackle complex challenges, and find innovative solutions.
 
-In my free time, I enjoy working on personal projects to further develop my skills and explore new technologies. My GitHub profile showcases some of my recent work, including projects related to data visualization, web development, and more.
-
-I'm always looking for opportunities to collaborate on exciting projects, so feel free to reach out to me if you'd like to work together or have any questions.
+In my free time, you’ll find me working on personal projects, DJing, or capturing moments through photography. I also love discussing technology, software engineering, and innovation—always learning and exchanging ideas.
 
 <a href="https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-thiago%20henrique%20ferreira%20correa-blue?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/" alt="LinkedIn Badge"></a> 
 <a href="https://facebook.com/thiago.corr" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-thiago.corr-blue?style=flat&labelColor=1ca0f1&logo=facebook&logoColor=white&link=https://www.facebook.com/thiago.corr/" alt="Facebook Badge"></a> 
-<a href="https://instagram.com/tio.dos.pc" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%40indiefarofinha-%23A020F0%09?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/indiefarofinha/" alt="Instagram Badge"></a>
+<a href="https://instagram.com/tio.dos.pc" target="_blank" rel="noreferrer"><img src="https://img.shields.io/badge/-%40indiefarofinha-%23A020F0%09?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/tio.dos.pc/" alt="Instagram Badge"></a>
 
 <img align="right" src="https://i.imgur.com/yicqjkz.gif" width="480"/>
 <h2>⚡ Facts about me </h2>
 <ul>
-     <li>🔭 I learn fast and I like to test different technologies.</li>
-     <li> 📫 I am a person who likes to share knowledge and teach other people.</li>
-     <li>🌱 I like having great challenges and ease to distribute tasks in a team.</li>           
-     <li>😄 my favorite hobbies is photographing, playing the violin, playing games and reading news.</li>
+     <li>🚀 Tech Stack: React, Next.js, TypeScript, Node.js, MongoDB, Express.js, AWS, Linux</li>
+     <li> 🎯 Interests: Scalability, Performance Optimization, System Design, AI, Data Science</li>
+     <li>🎵 Hobbies: DJing, gaming, photography, and keeping up with the latest tech trends</li>           
      <!-- <li>check out my [curriculum vitae] and [academic curriculum]</li> -->
 </ul>
 
