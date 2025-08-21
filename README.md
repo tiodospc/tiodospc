@@ -70,6 +70,6 @@ Currently working with **React, Next.js, Node.js, AWS**, and helping teams deliv
 ## 📫 How to reach me  
 
 [![LinkedIn](https://img.shields.io/badge/-Thiago%20Henrique%20Correa-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-henrique-ferreira-correa-706b0389/)  
-[![Email](https://img.shields.io/badge/-thiagohfc.dev%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:thiagohfc.dev@gmail.com)  
+[![Email](https://img.shields.io/badge/-thiagohfc.dev%40gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:thiago12812@gmail.com)  
 [![Instagram](https://img.shields.io/badge/-@tio.dos.pc-%23A020F0?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/tio.dos.pc)  
 [![Facebook](https://img.shields.io/badge/-thiago.corr-blue?style=flat-square&logo=facebook&logoColor=white)](https://facebook.com/thiago.corr)  
